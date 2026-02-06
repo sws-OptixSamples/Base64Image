@@ -1,6 +1,6 @@
 # Base64 Image Test
 
-Basic project to demonstrate the capabilities of creating and displaying a Base64 image in a FactoryTalk Optix application.  NetLogic methods build the html content and display to the user from an Optix web browser widget.
+Basic project to demonstrate the capabilities of creating and displaying a Base64 image in a FactoryTalk Optix application.  Static text in a text file is also used in a static html file to display the Base64 image content in an Optix web browser widget.  Further expansion could be for NetLogic to take contents of an updated text file and build the html.  Would be simple text/string manipulation in NetLogic and writing a new html file.  In this example, all files are static.
 
 ![runtimeExampleImage](ProjectFiles/runtimeExampleImage.png)
 
